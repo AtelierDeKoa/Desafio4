@@ -1,0 +1,362 @@
+:: StoryTitle
+Naturaleza Muerta
+
+
+:: StoryData
+{
+  "ifid": "1887D2E1-107D-4A6B-A618-646F05143EA0",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Naturaleza muerta",
+  "zoom": 1
+}
+
+
+:: A los vigilantes les llegan rumores de una posible insurrección {"position":"775,700","size":"100,100"}
+[[Te preguntan por los anarquistas]]
+(Si elegiste el personaje femenino, los vigilantes te tratan mejor y si elegiste el masculino te tratan de manera más agresiva)
+
+
+:: A los vigilantes les llegan rumores de una posible insurrección2 {"position":"1025,700","size":"100,100"}
+[[Te preguntan por los anarquistas->Te preguntan por los anarquistas2]]
+
+(Si elegiste el personaje femenino, los vigilantes te tratan mejor y si elegiste el masculino te tratan de manera más agresiva)
+
+
+:: Aliens {"position":"75,2025","size":"100,100"}
+<!-- Final 2 -->
+Abres la puerta y ves una sala rodeada de pantallas que retransmiten en tiempo real todos y cada uno de vuestros movimientos, tanto vigilantes como trabajadores.
+
+Una silueta aparece por detrás. Te asustas y te giras con intención de pedir ayuda. Te encuentras con un ser alto, muy delgado, de primeras parece humano pero en seguida te das cuenta que no tiene nada que ver.
+
+-Tu no eres el jefe de los vigilantes, ¿cómo has llegado hasta aquí?- te mira la figura fijamente con gran asombro.
+Le enseñas el mapa y con la voz aún temblorosa le explicas la situación.
+-Ya veo, me temo que ya no nos sirves para el experimento, sabes demasiado- resopla.
+Intentas apelar a la piedad, pero antes de que te des cuenta, otras dos siluetas te rodean. Te desmayas. 
+
+Cuando vuelves a despertarte te encuentras dentro de una incubadora, un cuidador está a punto de cogerte en brazos. Miras a tu alrededor y ves a cientos de bebés. La lucidez empieza a desvanecerse, la ansiedad se apodera de ti, no puedes hablar y empiezas a llorar. Segundos más tarde, toda tu consciencia se ha perdido por completo y eres un bebé más.
+
+''FIN''
+
+[[¿Quieres volver a intentarlo?->Naturaleza muerta]]
+
+
+:: Atacas al vigilante {"position":"1300,1425","size":"100,100"}
+Atacas el vigilante dándole con la linterna en la cabeza. Este inmediatamente suelta a tu compañera y empieza a sangrar muchísimo. 
+
+Cae al suelo y ves que comienza a tener la respiración entrecortada. 
+
+Unos segundos más tarde deja de moverse y respirar. El vigilante ha muerto. Tu compañera quiere unirse al resto del grupo.
+
+[[Sigues corriendo hacia la zona alta->Haces caso a los anarquistas y vas a la zona alta]]
+[[Vais con el resto del grupo hacia la zona baja->Seguís vuestro camino hacia la zona baja]]
+
+
+:: Cerebro {"position":"300,1575","size":"100,100"}
+<!--Final 3 -->
+El vigilante le habla directamente a la máquina:
+-La revuelta anarquista se nos ha ido de las manos, creemos que uno de los nuestros les ha ayudado. Está todo perdido maestra... - se lamenta.
+-Sabíamos que quedaba poco tiempo, aún así, habéis hecho lo que habéis podido, gracias por liderar a los vigilantes y por mantenerme con vida todo este tiempo.- una voz medio robótica entrecortada sale desde la máquina.
+
+Enciendes la linterna, que ilumina por completo la sala, dejando ver un cerebro, flotando en un líquido verdoso, conectado a un aparato gigante y ves como poco a poco la máquina empieza a apagarse.
+
+El vigilante te explica que el cerebro que está viendo es la líder, lleva muchos años intentando ganarle a la muerte, para ello necesitaba toda la energía que pudieran generar los trabajadores. Los primeros vigilantes juraron protegerla y transmitir el legado a las nuevas generaciones de los suyos que fueran llegando. Llevan siglos retrasando lo inevitable.
+
+El momento ha llegado. Es hora de contar la verdad al resto.
+
+''FIN''
+
+[[¿Quieres volver a intentarlo?->Naturaleza muerta]]
+
+
+:: Coincidimos en la reunión trimestral, pero no se mucho más {"position":"800,1150","size":"100,100"}
+Desconfían pero te dejan en paz.
+
+Terminas tu jornada laboral. 
+Se hace de noche, te vas a la cama, pero de repente...
+
+[[Se abren las puertas]]
+
+
+:: Cárcel {"position":"1550,1700","size":"100,100"}
+<!--Final 5 -->
+Cuando la puerta queda totalmente abierta veis que fuera hay unos barrotes que rodean todo el perímetro del edificio. Detrás de esos barrotes, a lo lejos, sois capaces de ver una gran ciudad donde la gente es completamente libre. 
+
+El vigilante os confiesa que donde realmente habéis vivido es en una cárcel. Vuestros antepasados fueron encarcelados y puestos a hacer trabajos forzosos. Los líderes de las naciones se dieron cuenta que gracias a esos trabajos podrían enriquecerse aún más y crearon un programa en el que los bebés que nacieran en este entorno servirían para seguir trabajando forzosamente el resto de sus vidas. La gente del exterior no tiene ni idea de las atrocidades que pasan aquí dentro, aunque no hacen muchas preguntas porque se benefician de vuestro sufrimiento también, miran hacia otro lado.
+
+Lleváis siglos viviendo en una mentira, hasta ahora. 
+
+''FIN''
+
+[[¿Quieres volver a intentarlo?->Naturaleza muerta]]
+
+
+:: Descubren que sabes cosas sobre los anarquistas {"position":"975,1200","size":"100,100"}
+[[Los vigilantes toman represalias]]
+
+
+:: Disparas al anarquista {"position":"525,1850","size":"100,100"}
+Antes de que te des cuenta el resto de anarquistas te tiran al suelo.
+
+[[Los anarquistas se vengan->Los vigilantes toman represalias]]
+
+
+:: Esperas a que te den órdenes {"position":"400,1325","size":"100,100"}
+Ves a un vigilante del que te suena la cara.
+
+[[Sigues al vigilante sin decir nada]]
+[[Vas dirección al pabellón donde vivías]]
+
+
+:: Haces caso a los anarquistas y vas a la zona alta {"position":"900,1825","size":"100,100"}
+Subes por la escalera a lo más alto que puedes. Corres por el pasillo a toda prisa. En el fondo, hay una puerta de emergencia.
+
+[[Abres la puerta->Nada]]
+
+
+:: Inicio {"position":"900,450","size":"100,100"}
+Todos los días,// Protagonista// se levanta a las 6:00, se lava los dientes, se viste y se pone a trabajar. A las 13:00, llaman a la puerta y le traen la misma comida de siempre. Tiene 15min para devolver la bandeja y seguir trabajando. A las 20:00 le traen la cena. Tiene que ducharse en exactamente 3 minutos y meterse en la cama inmediatamente después.
+
+Una vez cada 3 meses, puede salir del cuarto para socializar con un grupo cerrado de personas. Todo esto para que puedan procrear y seguir con la especie humana.
+
+En la última reunión, alguien comentó que un pequeño grupo de personas pensaba escaparse y rebelarse ante el régimen, del que nadie sabe absolutamente nada.
+
+Lo único que se sabe es que hay diferentes tipos de trabajos, que los guardias están por encima del resto de personas y que a la mínima cosa que se detecte dentro de los límites establecidos, la sanción es injusta e inhumana.
+
+[[Te quedas y sigues las normas del régimen]]
+[[Te unes a los anarquistas]]
+
+
+:: Intentas buscar ayuda {"position":"200,1900","size":"100,100"}
+Mientras corres de manera desesperada buscando ayuda, oyes un disparo a lo lejos. Entras en el pabellón de los vigilantes. No encuentras a nadie allí.
+
+Ves un papel en el suelo con un mapa del edificio y varios códigos. Vas a la zona reservada a los líderes, a ver si ellos te pueden ayudar.
+
+[[Entras en la zona de los líderes->Aliens]] 
+
+
+:: Intentas pedir ayuda al resto del grupo {"position":"1100,1425","size":"100,100"}
+Corres en dirección al resto del grupo. El sonido de un disparo te hace frenar en seco. 
+Ves al grupo de la zona baja corriendo en tu dirección. Te zarandean y te sacan del estado de shock. 
+
+[[Vais en dirección al sonido del disparo]]  
+
+
+
+:: Los vigilantes toman represalias {"position":"875,1350","size":"100,100"}
+Te dan una paliza entre varios de ellos. Te duele absolutamente todo. La cabeza está apunto de estallarte. Oyes un pitido muy agudo. Una patada en la cabeza termina con todo. Mueres.
+<!-- Final 1 -->
+
+''FIN''
+
+[[¿Quieres volver a intentarlo?->Naturaleza muerta]]
+
+
+:: Mientes {"position":"1400,950","size":"100,100"}
+Desconfían pero te dejan en paz.
+
+A las 23:00 se abren todas las puertas del edificio. Sales corriendo en dirección al salón de reuniones.
+
+[[Te unes al resto del grupo]]
+
+
+:: Nada {"position":"1025,1925","size":"100,100"}
+<!--Final 4 -->
+Al abrir la puerta descubres que fuera de tu edificio no hay absolutamente nada. Un horizonte arenoso. Te das cuenta que las personas del edificio son las últimas que quedan con vida de toda la civilización. Una sensación de desesperanza te invade por dentro. Los vigilantes os han ocultado todo para que no cunda el pánico. 
+
+Ya es hora de informar al resto.
+
+''FIN''
+
+[[¿Quieres volver a intentarlo?->Naturaleza muerta]]
+
+
+:: Naturaleza muerta {"position":"900,200","size":"100,100"}
+<!--Desafío 4 (Naturaleza Muerta) de Ana Martín Prieto -->
+
+En un mundo en el que la explotación está en su máximo auge, la naturaleza está exclusivamente para ciclar el aire y existen máquinas para que no haya que cuidarlas. ¿Seguirás las normas del régimen o te rebelarás por un planeta mejor?
+
+Escoge entre:
+<!--Esta eleccion determinará cómo te hablan los vigilantes (a las mujeres se las tratan mejor ya que son más importantes a nivel reproductivo)-->
+[[Hombre->Inicio]]
+[[Mujer->Inicio]]
+
+
+:: No le conozco de nada {"position":"975,1075","size":"100,100"}
+Alguien os vio en la reunión trimestral y se lo ha comunicado a los vigilantes. Saben que mientes.
+[[Descubren que sabes cosas sobre los anarquistas]]
+
+
+:: No te chivas {"position":"900,950","size":"100,100"}
+No se fían demasiado. Te preguntan por //NPC Anarquista 1//
+
+[[No le conozco de nada]]
+[[Coincidimos en la reunión trimestral, pero no se mucho más]]
+
+
+:: Paras al primero que puedas y le preguntas qué está pasando {"position":"200,1325","size":"100,100"}
+El vigilante, entre enfadado y preocupado, te cuenta que las puertas de todos los trabajadores se han abierto y nadie sabe cómo han podido hacerlo ni cómo proceder.
+
+[[Sugieres ir al pabellón donde vivías]]
+[[Sigues al vigilante sin decir nada]]
+
+
+:: Rechazas la oferta  y sigues en tu puesto de trabajo {"position":"600,1150","size":"100,100"}
+Terminas tu jornada laboral. 
+Se hace de noche, te vas a la cama, pero de repente...
+
+[[Se abren las puertas]]
+
+
+:: Sacas la cabeza a ver que pasa {"position":"600,1575","size":"100,100"}
+Ves a uno de los anarquistas corriendo en dirección opuesta al salón de reuniones.
+
+[[Sigues al anarquista]]
+
+
+:: Se abren las puertas {"position":"700,1350","size":"100,100"}
+A las 23:00 se abren todas las puertas del edificio. Escuchas jaleo.
+
+[[Sacas la cabeza a ver que pasa]]
+[[Te quedas en la cama y te tapas con la manta]]
+
+
+:: Seguís vuestro camino hacia la zona baja {"position":"1700,1425","size":"100,100"}
+Bajáis las escaleras hacia la puerta principal del edificio. El vigilante que os ha ayudado a salir está allí esperando. Ha robado el código de la puerta de entrada del edificio. Introduce el código y la puerta queda entreabierta.
+
+[[Abres la puerta principal->Cárcel]]
+
+
+:: Sigues al anarquista {"position":"300,1750","size":"100,100"}
+Le pierdes de vista al girar por un pasillo. Escuchas un forcejeo y ves al anarquista luchando con un vigilante.
+
+[[Disparas al anarquista]]
+[[Intentas buscar ayuda]]
+
+
+:: Sigues al vigilante sin decir nada {"position":"300,1450","size":"100,100"}
+Vas dos pasos por detrás y el vigilante no se da cuenta de que le sigues. Llegáis a una pequeña sala protegida con un código que el vigilante introduce.
+Cuando se abre la puerta ves una extraña máquina.
+
+[[Entras en la sala->Cerebro]]
+
+
+:: Suena una alarma {"position":"300,1200","size":"100,100"}
+Una alarma te despierta, los demás vigilantes corren de un lado hacia el otro.
+Nadie se percata de que es tu primer día y no sabes qué hacer.
+
+[[Paras al primero que puedas y le preguntas qué está pasando]]
+[[Esperas a que te den órdenes]]
+
+
+:: Sugieres ir al pabellón donde vivías {"position":"100,1450","size":"100,100"}
+El vigilante te dice que lo mejor es separarse, que tú vayas a ese pabellón mientras se encarga del siguiente. 
+Cuando llegas, ves a uno de los anarquistas corriendo en dirección opuesta al salón de reuniones.
+
+[[Sigues al anarquista]]
+
+
+:: Te chivas {"position":"450,950","size":"100,100"}
+Le dices que hay un grupo de anarquistas que están buscando nuevos integrantes, pero no sabes mucho más.
+
+La información que les has dado ya la tenían, aún así como acto de buena fe a favor del régimen te invitan a unirte a los vigilantes:
+
+[[Te unes a los vigilantes]]
+[[Rechazas la oferta  y sigues en tu puesto de trabajo]]
+
+
+:: Te preguntan por los anarquistas {"position":"775,825","size":"100,100"}
+[[Te chivas]]
+[[No te chivas]]
+
+
+
+:: Te preguntan por los anarquistas2 {"position":"1025,825","size":"100,100"}
+Mientes y les dices que en la última reunión no te encontrabas muy bien y no recuerdas bien los detalles.
+
+[[Sabes mentir bien->Mientes]] 
+
+
+:: Te quedas en la cama y te tapas con la manta {"position":"800,1575","size":"100,100"}
+Estás temblando, escuchas muchísimo jaleo y no sabes qué está pasando ahí fuera.
+
+De repente escuchas un disparo. Sales de la habitación porque es insostenible la situación.
+El grupo de los anarquistas viene desde el fondo del pasillo y te llevan por delante hacia la dirección donde se escuchó el disparo.
+
+[[Vas en dirección al sonido del disparo]]
+
+
+:: Te quedas paralizado y no eres capaz de moverte ni hablar {"position":"650,1700","size":"100,100"}
+Aparecen más vigilantes. Ven a los anarquistas conteniendo a su compañero.
+
+Te pillan de sorpresa debido al shock.
+
+[[Los vigilantes toman represalias]]
+
+
+:: Te quedas y sigues las normas del régimen {"position":"775,575","size":"100,100"}
+[[A los vigilantes les llegan rumores de una posible insurrección]]
+
+
+:: Te unes a los anarquistas {"position":"1025,575","size":"100,100"}
+Te pasan un papel por debajo de la puerta.
+"A las 23:00 se abrirán las puertas. Ve a el salón de reuniones."
+
+[[A los vigilantes les llegan rumores de una posible insurrección->A los vigilantes les llegan rumores de una posible insurrección2]]
+
+
+:: Te unes a los vigilantes {"position":"300,1075","size":"100,100"}
+Te llevan a un nuevo pabellón donde duermen los vigilantes.
+Estás hecho polvo, te vas a la cama....
+
+[[Suena una alarma]]
+
+
+
+:: Te unes al resto del grupo {"position":"1400,1075","size":"100,100"}
+Te comentan que un vigilante rebelde, que no está de acuerdo con la violencia ejercida hacia los trabajadores, os ha ayudado abriendo las puertas.
+
+Sacan un mapa y os organizáis para cubrir dos zonas. Elige a qué zona vas a ir:
+
+[[Zona alta]]
+[[Zona baja]]
+
+
+:: Vais en dirección al sonido del disparo {"position":"950,1575","size":"100,100"}
+Veis a vuestra compañera muerta en el suelo con un disparo en la cabeza. El vigilante parece paralizado y aterrorizado por lo que ha hecho. Tus compañeros se abalanzan sobre él.
+
+Te gritan que sigas corriendo hacia la zona alta.
+
+[[Haces caso a los anarquistas y vas a la zona alta]]
+
+
+:: Vas dirección al pabellón donde vivías {"position":"500,1450","size":"100,100"}
+Cuando llegas ves a uno de los anarquistas corriendo en dirección opuesta al salón de reuniones.
+
+[[Sigues al anarquista]]
+
+
+:: Vas en dirección al sonido del disparo {"position":"800,1700","size":"100,100"}
+Ves a una de las anarquistas muerta en el suelo con un disparo en la cabeza. El vigilante parece paralizado y aterrorizado por lo que ha hecho. Los anarquistas se abalanzan sobre él.
+
+Te gritan que sigas corriendo hacia la zona alta.
+
+[[Te quedas paralizado y no eres capaz de moverte ni hablar]]
+[[Vas hacia la zona alta ->Haces caso a los anarquistas y vas a la zona alta]]
+
+
+:: Zona alta {"position":"1200,1300","size":"100,100"}
+Junto con una compañera vais dirección a la zona alta. Te giras un segundo para ver que el otro grupo ya ha salido de la sala de reuniones, ya van bajando las escaleras que conducen a la zona baja.
+
+De repente, tu compañera ha sido atacada por un vigilante. Están forcejeando violentamente.
+
+[[Atacas al vigilante]]
+[[Intentas pedir ayuda al resto del grupo]]
+
+
+:: Zona baja {"position":"1600,1300","size":"100,100"}
+Junto a un par de compañeros vais dirección a la zona baja. Cuando estáis bajando la escalera escucháis un disparo por el camino que han cogido vuestros compañeros hacia la zona alta.
+
+[[Vais en dirección al sonido del disparo]]
+[[Seguís vuestro camino hacia la zona baja]]
+
